@@ -1,7 +1,4 @@
-# sprat
-sprat = shitty python rat
-
-Don't use this to infect computers you don't own, or do, I can't stop you.
+# sprat = shitty python rat
 
 I built this out of boredom and to practice my python skills. I'm new at python so don't cringe at my code 😡
 
